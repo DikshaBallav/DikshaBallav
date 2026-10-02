@@ -117,7 +117,7 @@ NLP-based machine learning system that classifies SMS messages as Spam or Ham us
 `LangChain` `RAG` `AI Agents` `LLM Workflows` `Prompt Engineering` `Information Retrieval`
 
 ### 🔧 Tools & Frameworks
-`Scikit-learn` `TensorFlow` `Keras` `PyTorch` `Streamlit` `Jupyter Notebook` `Git` `GitHub` `PostgreSQL` `Power BI`
+`Scikit-learn` `TensorFlow` `Keras` `PyTorch` `Streamlit` `Jupyter Notebook` `Git` `GitHub` `PostgreSQL` `Power BI` 'Flask' 'Flutter'
 
 ---
 
@@ -151,17 +151,6 @@ I enjoy building **machine learning models, data analytics solutions, deep learn
 ---
 
 ## 🤝 Let's Collaborate
-
-I'm interested in collaborating on:
-
-- AI/ML Projects
-- Data Science & Analytics
-- Generative AI Applications
-- AI Agent & NLP Projects
-- Open Source Projects
-- Real-world Machine Learning Applications
-
----
 
 ### ⭐ Explore my repositories to see my work across AI/ML, Data Science, Data Analytics, NLP, Deep Learning, and Generative AI.
 
