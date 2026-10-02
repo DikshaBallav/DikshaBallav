@@ -117,7 +117,7 @@ NLP-based machine learning system that classifies SMS messages as Spam or Ham us
 `LangChain` `RAG` `AI Agents` `LLM Workflows` `Prompt Engineering` `Information Retrieval`
 
 ### 🔧 Tools & Frameworks
-`Scikit-learn` `TensorFlow` `Keras` `PyTorch` `Streamlit` `Jupyter Notebook` `Git` `GitHub` `PostgreSQL` `Power BI` 'Flask' 'Flutter'
+`Scikit-learn` `TensorFlow` `Keras` `PyTorch` `Flask` `Flutter` `Streamlit` `Jupyter Notebook` `Git` `GitHub` `PostgreSQL` `Power BI`
 
 ---
 
