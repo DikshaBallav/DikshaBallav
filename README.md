@@ -124,11 +124,9 @@ NLP-based machine learning system that classifies SMS messages as Spam or Ham us
 ## 📜 Certifications
 
 - 🏅 **Visual Evaluation Specialist — micro1**  
-  Certified after successfully passing micro1's AI Interview  
-  **May 2026**
+    **May 2026**
 
 - 📊 **Data Science / Analytics — Pregrad**  
-  Completed 3-month mentorship course in Data Science/Analytics  
   **May 2024 – Aug 2024**
 
 ---
