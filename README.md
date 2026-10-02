@@ -17,8 +17,8 @@ My work focuses on combining **machine learning, data-driven analysis, and pract
 ## 📬 Connect With Me
 
 - 📧 Email: ballavdiksha@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/diksha-ballav-a7904931
-- 💻 GitHub: github.com/DikshaBallav
+- 🔗 LinkedIn: www.linkedin.com/in/diksha-ballav-a79049312
+- 💻 GitHub: https://github.com/DikshaBallav
 - 📍 Patna, Bihar, India
 
 ---
