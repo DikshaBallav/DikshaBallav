@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Diksha Ballav
 
-🤖 **AI/ML Engineer** | 📊 **Data Science & Analytics** | 🧠 **Generative AI & NLP**
+🤖 **AI/ML** | 📊 **Data Science & Analytics** | 🧠 **Generative AI & NLP**
 
 ---
 
 ## 🚀 About Me
 
-I am an **AI/ML Engineer and Computer Science & Data Analytics student at IIT Patna** with hands-on experience in machine learning, deep learning, NLP, data analysis, and AI-powered applications.
+I am an **Computer Science student at IIT Patna** with hands-on experience in machine learning, deep learning, NLP, data analysis, and AI-powered applications.
 
 I enjoy working with **real-world datasets and intelligent systems**, from building predictive ML models and analytics dashboards to developing LLM-based and agentic AI applications.
 
