@@ -70,7 +70,7 @@ B.S. in Computer Science and Data Analytics
 
 ---
 
-# 🔥 Projects
+# 🔥 Key Projects
 
 ### 🤖 Agentic AI Research System
 Multi-step AI research assistant using a **Search → Read → Write → Critic** workflow for automated research and report generation.  
