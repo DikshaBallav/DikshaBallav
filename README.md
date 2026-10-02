@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am an **Computer Science student at IIT Patna** with hands-on experience in machine learning, deep learning, NLP, data analysis, and AI-powered applications.
+I am a **Computer Science student at IIT Patna** with hands-on experience in machine learning, deep learning, NLP, data analysis, and AI-powered applications.
 
 I enjoy working with **real-world datasets and intelligent systems**, from building predictive ML models and analytics dashboards to developing LLM-based and agentic AI applications.
 
